@@ -1,2 +1,2 @@
-# SnapCount's_Missing_Batteries
+# SnapCount's Missing Batteries
 UI Automations for Streamlinx SnapCount software.
